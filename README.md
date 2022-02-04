@@ -1,3 +1,9 @@
-trello board project using the following technpologies:
+trello board project
 
-stack - typescript, react and styled components
+# tech stack :
+
+typescript, react, styled components and react drag-n-drop
+
+# Screenshot :
+
+![App](./public/trello-board-screenshot.png)
